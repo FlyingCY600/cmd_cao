@@ -12,6 +12,7 @@ git clone https://github.com/FlyingCY600/cmd_cao.git
 2.使用pip安装
 ```sh
 #cd到文件所在文件夹
+cd /d ./cmd_cao
 #安装
 pip install .
 #可能需要梯子
