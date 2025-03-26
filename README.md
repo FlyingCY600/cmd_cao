@@ -17,7 +17,7 @@ cd /d E:\cao
 pip install .
 #可能需要梯子
 ```
-3.获取api_key:推荐[免费apikey]（https://github.com/chatanywhere/GPT_API_free）获取
+3.获取api_key:推荐[免费apikey](https://github.com/chatanywhere/GPT_API_free)获取
   免费用过这个项目的，一天200次免费请求，挺好用的，也可付费（无广）
 4.添加api_key
 ```sh
