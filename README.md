@@ -1,7 +1,7 @@
 # CAO 命令行工具
 
 这是一个简单的命令行工具，用于修正命令行的指令，你只需要在输入错误的指令后在命令行输入cao即可自动修正。
-##使用教程
+## 使用教程
 1.克隆仓库到本地
 ```sh
 git clone https://github.com/FlyingCY600/cmd_cao.git
@@ -19,5 +19,5 @@ cao -add sk-rdf*************
 ##目前存在的问题
 1.只适配window的cmd
 2.极少数情况模型输出不正确
-##欢迎提pr
-##联系作者：CYF6000@proton.me
+## 欢迎提pr
+## 联系作者：CYF6000@proton.me
