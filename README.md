@@ -25,8 +25,10 @@ pip install .
 cao -add sk-rdf*************
 ```
 5.愉快地使用吧
+## 示例
+
 ## 目前存在的问题
-1.只适配window的cmd
-2.极少数情况模型输出不正确
+1. 只适配window的cmd
+2. 极少数情况模型输出不正确
 ## 欢迎提pr
 ## 联系作者：CYF6000@proton.me
