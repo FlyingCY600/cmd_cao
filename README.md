@@ -16,7 +16,7 @@ git clone https://github.com/FlyingCY600/cmd_cao.git
 cao -add sk-rdf*************
 ```
 3.愉快地使用吧
-##目前存在的问题
+## 目前存在的问题
 1.只适配window的cmd
 2.极少数情况模型输出不正确
 ## 欢迎提pr
