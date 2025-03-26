@@ -27,6 +27,7 @@ cao -add sk-rdf*************
 5.愉快地使用吧
 ## 示例
 ![tu](https://github.com/FlyingCY600/cmd_cao/blob/main/126.png)
+模型输出后会自动复制在粘贴板，鼠标右键粘贴即可
 ## 目前存在的问题
 1. 只适配window的cmd
 2. 极少数情况模型输出不正确
